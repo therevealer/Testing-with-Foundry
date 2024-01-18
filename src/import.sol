@@ -5,4 +5,4 @@ import "../openzeppelin-contracts/contracts/token/ERC20/ERC20.sol";
 
 // import "solmate/tokens/ERC20.sol";
 
-contract myToken is ERC20("name", "symbol"){}
+contract myToken is ERC20("name", "symbol") {}
